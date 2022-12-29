@@ -1,0 +1,33 @@
+{
+  "name": "janitor",
+  "version": "1.0.0",
+  "description": "Janitor for NevermoreEngine, with Maid backwards compatibility.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howmanysmall/nevermore-janitor.git"
+  },
+  "keywords": [
+    "Roblox",
+    "Nevermore",
+    "Maid",
+    "event",
+    "cleanup",
+    "Luau",
+    "Lua"
+  ],
+  "contributors": [
+    "HowManySmall",
+    "Validark"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/howmanysmall/nevermore-janitor/issues"
+  },
+  "homepage": "https://github.com/howmanysmall/nevermore-janitor#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@quenty/loader": "^6.0.1"
+  }
+}
