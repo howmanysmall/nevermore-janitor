@@ -1,6 +1,4 @@
-local require = require(script.Parent.loader).load(script)
-
-local Janitor = require("Janitor")
+local Janitor = require(script.Parent.Janitor)
 
 --[=[
 	Manages the cleaning of events and other things. Useful for

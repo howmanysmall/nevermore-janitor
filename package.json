@@ -1,6 +1,6 @@
 {
-  "name": "janitor",
-  "version": "1.0.0",
+  "name": "nevermore-janitor",
+  "version": "1.0.1",
   "description": "Janitor for NevermoreEngine, with Maid backwards compatibility.",
   "repository": {
     "type": "git",
@@ -26,8 +26,5 @@
   "homepage": "https://github.com/howmanysmall/nevermore-janitor#readme",
   "publishConfig": {
     "access": "public"
-  },
-  "dependencies": {
-    "@quenty/loader": "^6.0.1"
   }
 }
